@@ -40,17 +40,47 @@ body{
 
 .escola-div-conteudo{
     width: 40%;
+    
 }
+
+.estudante{
+    background-color: #383D58   ;
+}
+
 .escola-titulo{
     padding: 24px 0;
+    
+    
 }
-.estudante-imagem{
+.estudante-imagem{ 
     width: 120px;
+    
 }
 
 .estudante-icone{
     width: 24px;
+    
+    
 }
+
+.estudante-todos{
+color: white;
+
+}
+
 .estudante-div{
     text-align: center;
+}
+
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}   
+.estudante-titulo{
+    color: white;
 }
