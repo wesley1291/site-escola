@@ -84,3 +84,14 @@ color: white;
 .estudante-titulo{
     color: white;
 }
+
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+    
+}
